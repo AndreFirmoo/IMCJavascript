@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.peso-baixo{
+    background-color: rgb(87, 152, 255);
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px; 
+}
+.peso-normal{
+   background-color: rgb(0, 98, 255);
+   display: block;
+   text-align: center;
+   height: 50px;
+   line-height: 50px;
+   margin-top: 10px;
+   color: white;
+   font-size: 30px; 
+}
+.peso-levementeAcima{
+    background-color: rgb(116, 12, 253);
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px; 
+}
+
+.peso-obesidade1{
+    background-color: rgb(219, 187, 4);
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px; 
+}
+.peso-obesidade2{
+    background-color: rgb(219, 144, 4);
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px; 
+}
+.peso-obesidade3{
+    background-color: rgb(246, 94, 6);
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px; 
+}
+.Error{
+    background-color: rgb(219, 4, 4);
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px; 
+}
